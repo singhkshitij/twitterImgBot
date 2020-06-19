@@ -9,7 +9,7 @@ secret_token =RLPicBDBvLw15kpleHB9sWLLhYj8lm3N1Qub7GMUvdYlm
 [App]
 image_folder = /home/kshitij.singh/twitterImgBot/images/reddit_sub_ProgrammerHumor/
 execution_chance = 1
-allow_repeat_after = 100
+allow_repeat_after = 900
 log_file = /home/kshitij.singh/twitterImgBot/logs/log
 bot_account = @mytrashcode
 master_account = @ikshitijsingh
