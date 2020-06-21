@@ -4,7 +4,7 @@
 api_key =xE4FzinZDwOjzSEEbgz65TmBP
 secret_key = //YOUR APP SECRET KEY
 token = //YOUR APP TOKEN
-secret_token =RLPicBDBvLw15kpleHB9sWLLhYj8lm3N1Qub7GMUvdYlm
+secret_token = //YOUR APP SECRET TOKEN
 
 [App]
 image_folder = /home/kshitij.singh/twitterImgBot/images/reddit_sub_ProgrammerHumor/
