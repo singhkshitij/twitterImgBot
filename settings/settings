@@ -2,8 +2,8 @@
 
 [Twitter]
 api_key =xE4FzinZDwOjzSEEbgz65TmBP
-secret_key =N8TnFCiEkasscdWftFPd9eL0BYsauDXqEaE0V5s8ZBWoEnXYQV
-token =1272948619822264320-9TQPpKv57gTtJlhB0aGTHKCJFi83C0
+secret_key = //YOUR APP SECRET KEY
+token = //YOUR APP TOKEN
 secret_token =RLPicBDBvLw15kpleHB9sWLLhYj8lm3N1Qub7GMUvdYlm
 
 [App]
